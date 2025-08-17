@@ -34,7 +34,7 @@ I’m creating a simple task tracker. The program asks the user for task details
 | Functions        | Using functions to validate input and filter completed tasks                    |
 | IDs  | Assigning unique IDs automatically for new tasks                                |
 | Console Logging  | Clear, structured display of tasks and completed tasks                          |
-| Code Quality     | Writing readable, maintainable code with meaningful variable names and comments |
+| Code Quality     | Writing readable, manageable code with meaningful variable names and comments |
 
 ## How to Run the Project 🛠 
 
