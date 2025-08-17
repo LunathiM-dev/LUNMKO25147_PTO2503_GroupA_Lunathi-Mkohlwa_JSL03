@@ -51,7 +51,6 @@ I’m creating a simple task tracker. The program asks the user for task details
 | --------------------- | ----------------------------------------------------------------------------------------------------- |
 | All Tasks         | 1. \[todo]  - Finish project report<br>2. \[doing] - Update resume<br>3. \[done]  - Submit assignment |
 | Completed Tasks      | 3. \[done] - Submit assignment                                                                        |
-| Task Limit Reached | "There are enough tasks on your board, please check them in the console."                             |
 
 
 
