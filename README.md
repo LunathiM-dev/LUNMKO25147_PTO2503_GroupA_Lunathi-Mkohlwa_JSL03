@@ -5,11 +5,11 @@ I’m creating a simple task tracker. The program asks the user for task details
 
 | Feature            | Description                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| Add New Tasks      | Users can add up to three new tasks: title 🏷️, description 🖊️, and status ✅                                         |
+| Add New Tasks      | Users can add up to three new tasks: title , description , and status                                         |
 | Status Validation  | Only accepts `todo`, `doing`, or `done`                                                                               |
 | Unique IDs         | Each new task receives a unique incremental ID                                                                        |
-| Task Limit Warning | Alerts users when task limit is reached: ⚠️ "There are enough tasks on your board, please check them in the console." |
-| Console Logging    | Logs all tasks 🗂️ and completed tasks ✅ with clear labels and emojis                                                 |
+| Task Limit Warning | Alerts users when task limit is reached:  "There are enough tasks on your board, please check them in the console." |
+| Console Logging    | Logs all tasks and completed tasks with clear labels and emojis                                                 |
 
 
 <div align="left">
